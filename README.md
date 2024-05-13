@@ -6,8 +6,6 @@ This project aims to control the system volume and screen brightness using hand 
 
 Clone this repo
 
-Install virtual environment
-
 Create a virtual environment
 
 Activate virtual environment
